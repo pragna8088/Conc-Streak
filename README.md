@@ -69,6 +69,42 @@ The platform allows teachers and students to connect through live video sessions
 - Drizzle-Zod
 
 ---
+## 🚀 Getting Started
+
+### Prerequisites
+
+Before running Conc-Streak, make sure you have the following installed:
+
+- Node.js
+- npm
+- PostgreSQL or a Neon Database account
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+cd conc-streak
+```
+
+2. Install the project dependencies:
+
+```bash
+npm install
+```
+
+3. Create a `.env` file in the root directory and add the required environment variables.
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open the application in your browser using the local URL provided by the development server.
+
+> **Note:** Make sure the database connection and required environment variables are configured before starting the application.
 
 # 📂 Project Structure
 
